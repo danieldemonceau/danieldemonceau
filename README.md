@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 ## 📈 GitHub Stats
 
-<div align="center" style="display: flex; flex-direction: row; margin-top: 20px; margin-bottom: 10px; justify-content: center; gap: 2%;">
-  <div style="display: flex; flex-direction: column; margin-top: auto; margin-bottom: auto;">
+<div align="center" style="display: flex; flex-direction: row; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 10px; justify-content: center; gap: 2%; width: 80%;">
+  <div style="display: flex; flex-direction: column; margin-top: auto; margin-bottom: auto; float: left">
     <div>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=danieldemonceau&show_icons=true&include_all_commits=true&theme=dark" width="350px"/>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       </a>
     </div>
   </div>
-  <div style=" margin-top: auto; margin-bottom: auto;">
+  <div style=" margin-top: auto; margin-bottom: auto; float: right">
     <a href="https://app.daily.dev/danieldemonceau"><img src="https://github.com/danieldemonceau/danieldemonceau/blob/master/devcard.svg" width="250" alt="Daniel's Dev Card"/></a>
   </div>
 </div>
