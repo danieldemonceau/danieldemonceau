@@ -61,7 +61,9 @@ Here are some ideas to get you started:
     </div>
   </div>
   <div style=" margin-top: auto; margin-bottom: auto; float: right">
-    <a href="https://app.daily.dev/danieldemonceau"><img src="https://github.com/danieldemonceau/danieldemonceau/blob/master/devcard.svg" width="250" alt="Daniel's Dev Card"/></a>
+    <a href="https://app.daily.dev/danieldemonceau">
+      <img src="https://github.com/danieldemonceau/danieldemonceau/blob/master/devcard.svg" width="250" alt="Daniel's Dev Card"/>
+    </a>
   </div>
 </div>
 
