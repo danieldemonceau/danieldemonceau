@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     </div>
   </div>
   <div style=" margin-top: auto; margin-bottom: auto;">
-    <a href="https://app.daily.dev/danieldemonceau"><img src="https://api.daily.dev/devcards/531ec023f36742ab8bfeaed9dd002426.png?r=hhn" width="250" alt="Daniel's Dev Card"/></a>
+    <a href="https://app.daily.dev/danieldemonceau"><img src="https://github.com/danieldemonceau/danieldemonceau/blob/master/devcard.svg" width="250" alt="Daniel's Dev Card"/></a>
   </div>
 </div>
 
@@ -92,7 +92,6 @@ Here are some ideas to get you started:
 <code><img height="40" title="CSS" height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/svg/css3.svg"></code>
 <code><img height="40" title="SCSS" height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/svg/sass-1.svg"></code>
 <code><img height="40" title="tailwindcss" height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/svg/tailwind-css.svg"></code>
-
 <code><img height="40" title="Visual Studio " height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/svg/visual-studio-code.svg"></code>
 <code><img height="40" title="Geoserver" height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/png/GeoServer_MARK.png"></code>
 <code><img height="40" title="QGIS" height="60px" src="https://raw.githubusercontent.com/danieldemonceau/danieldemonceau/master/svg/qgis-icon32.svg"></code>
